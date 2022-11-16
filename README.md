@@ -1,7 +1,7 @@
 # 💫 About Me:
 Dutch webdeveloper, constantly looking ahead for new challenges and opportunities!
 
-Laravel certified developer
+Laravel certified developer<br/>
 VueJS certified developer
 
 
